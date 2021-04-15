@@ -1,5 +1,5 @@
 
-![Let's build Smart Translator using HUAWEI ML Kit (Real-time Language Detection and Translation) in iOS native language (Swift)](https://github.com/yasirtahir/SmartTrTransnslaor/orraw/main/images/img2imgimg1e.jpeg)![# Let's build Smart Translator using HUAWEI ML Kit (Real-time Language Detection and Translation) in iOS native language (Swift)](https://github.com/yasirtahir/SmartTranslator/raw/main/images/img1.jpeg)
+![# Let's build Smart Translator using HUAWEI ML Kit (Real-time Language Detection and Translation) in iOS native language (Swift)](https://github.com/yasirtahir/SmartTranslator/raw/main/images/img1.jpeg)
 
  
 
@@ -71,7 +71,7 @@ Using ML Kit, developers can develop different iOS applications with auto detect
 ## References
 
 ### Huawei ML Kit Official Documentation:  
-[https://developer.huawei.com/consumer/en/doc/development/HMSCore-Guides/ios-real-time-translation-0000001062729936]([[https://developer.huawei.com/consumer/en/doc/development/HMSCore-Guides/ios-real-time-translation-0000001062729936)
+[https://developer.huawei.com/consumer/en/doc/development/HMSCore-Guides/ios-real-time-translation-0000001062729936](https://developer.huawei.com/consumer/en/doc/development/HMSCore-Guides/ios-real-time-translation-0000001062729936)
 
 ### Huawei ML Kit FAQs:
 [https://developer.huawei.com/consumer/en/doc/development/HMSCore-Guides/faq-0000001050040135](https://developer.huawei.com/consumer/en/doc/development/HMSCore-Guides/faq-0000001050040135)
