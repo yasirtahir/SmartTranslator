@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "img_btn_translate.pdf",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

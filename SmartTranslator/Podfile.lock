@@ -1,0 +1,28 @@
+PODS:
+  - lottie-ios (3.2.1)
+  - MLLangDetection (2.0.5.300)
+  - MLTranslate (2.0.5.300)
+  - ViewAnimator (3.0.2)
+
+DEPENDENCIES:
+  - lottie-ios
+  - MLLangDetection (~> 2.0.5.300)
+  - MLTranslate (~> 2.0.5.300)
+  - ViewAnimator
+
+SPEC REPOS:
+  trunk:
+    - lottie-ios
+    - MLLangDetection
+    - MLTranslate
+    - ViewAnimator
+
+SPEC CHECKSUMS:
+  lottie-ios: 106e92eaf11fbed0a76590b4cdb9b5ec26123ff7
+  MLLangDetection: 1c2f2a5a449b3be96c526bd08304fda66a9964d0
+  MLTranslate: 3c96dc4d16955d71bd4ef4e50281d6ab71884697
+  ViewAnimator: 16435576cd44fca0b0d63147d5031fd3e91d295a
+
+PODFILE CHECKSUM: 49decdf3d60d0e56ce61aa5cb7cfbef3c5ef44bc
+
+COCOAPODS: 1.10.1

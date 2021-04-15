@@ -1,0 +1,164 @@
+{
+  "supportedLangs": [
+    {
+      "langName": "Arabic",
+      "code": "ar"
+    },
+    {
+      "langName": "Danish",
+      "code": "da"
+    },
+    {
+      "langName": "German",
+      "code": "de"
+    },
+    {
+      "langName": "English",
+      "code": "en"
+    },
+    {
+      "langName": "Spanish",
+      "code": "es"
+    },
+    {
+      "langName": "Finnish",
+      "code": "fi"
+    },
+    {
+      "langName": "French",
+      "code": "fr"
+    },
+    {
+      "langName": "Italian",
+      "code": "it"
+    },
+    {
+      "langName": "Japanese",
+      "code": "ja"
+    },
+    {
+      "langName": "Korean",
+      "code": "ko"
+    },
+    {
+      "langName": "Polish",
+      "code": "pl"
+    },
+    {
+      "langName": "Portuguese",
+      "code": "pt"
+    },
+    {
+      "langName": "Russian",
+      "code": "ru"
+    },
+    {
+      "langName": "Swedish",
+      "code": "sv"
+    },
+    {
+      "langName": "Thai",
+      "code": "th"
+    },
+    {
+      "langName": "Turkish",
+      "code": "tr"
+    },
+    {
+      "langName": "Chinese",
+      "code": "zh"
+    },
+    {
+      "langName": "Traditional Chinese",
+      "code": "zh-HK"
+    },
+    {
+      "langName": "Malay",
+      "code": "ms"
+    },
+    {
+      "langName": "Norwegian",
+      "code": "no"
+    },
+    {
+      "langName": "Vietnamese",
+      "code": "vi"
+    },
+    {
+      "langName": "Czech",
+      "code": "cs"
+    },
+    {
+      "langName": "Greek",
+      "code": "el"
+    },
+    {
+      "langName": "Hebrew",
+      "code": "he"
+    },
+    {
+      "langName": "Hindi",
+      "code": "hi"
+    },
+    {
+      "langName": "Indonesian",
+      "code": "id"
+    },
+    {
+      "langName": "Romanian",
+      "code": "ro"
+    },
+    {
+      "langName": "Serbian",
+      "code": "sr"
+    },
+    {
+      "langName": "Tagalog",
+      "code": "tl"
+    },
+    {
+      "langName": "Central Khmer",
+      "code": "km"
+    },
+    {
+      "langName": "Burmese",
+      "code": "my"
+    },
+    {
+      "langName": "Tamil",
+      "code": "ta"
+    },
+    {
+      "langName": "Hungarian",
+      "code": "hu"
+    },
+    {
+      "langName": "Dutch",
+      "code": "nl"
+    },
+    {
+      "langName": "Persian",
+      "code": "fa"
+    },
+    {
+      "langName": "Slovak",
+      "code": "sk"
+    },
+    {
+      "langName": "Estonian",
+      "code": "et"
+    },
+    {
+      "langName": "Latvian",
+      "code": "lv"
+    },
+    {
+      "langName": "Bulgarian",
+      "code": "bg"
+    },
+    {
+      "langName": "Croatian",
+      "code": "hr"
+    }
+  ]
+}
